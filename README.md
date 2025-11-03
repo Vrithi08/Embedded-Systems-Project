@@ -123,7 +123,5 @@ Contributing & license
 ----------------------
 - See `CONTRIBUTING.md` to submit patches and `LICENSE` for terms (MIT).
 
-If you want, I can now:
-- Add a wiring diagram (SVG/PNG) for a specific board (tell me the board model).
-- Add a README badge for CI and license.
+
 
